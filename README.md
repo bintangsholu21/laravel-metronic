@@ -5,7 +5,8 @@ This is a Laravel base application pre-configured with Metronic Bootstrap 8.2.0,
 ---
 
 ## **Features**
-- **Laravel 11**: Built with the latest version of Laravel for enhanced performance and security.
+- **Laravel 12.x**: Built on the latest version of Laravel, ensuring compatibility with the latest features and security updates.
+- **PHP 8.2**: Utilizes the latest PHP features for improved performance and security.
 - **Metronic 8.2.0**: Integrated Metronic Admin Dashboard for a professional and responsive UI.
 - **Service-Repository Pattern**: Modular architecture for cleaner and more maintainable code.
 - **Custom Core Components**:
@@ -20,7 +21,7 @@ This is a Laravel base application pre-configured with Metronic Bootstrap 8.2.0,
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
-- PHP 8.2
+- PHP 8.2 or higher
 - Composer
 - Node.js & npm
 - MySQL or other supported database
